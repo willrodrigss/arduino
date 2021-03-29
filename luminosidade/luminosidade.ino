@@ -1,3 +1,5 @@
+//luminosity through the percentage of light with a LDR sensor
+
 int ldr = A0;
 
 void setup() {
